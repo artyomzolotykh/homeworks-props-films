@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homeworks-props-films/static/css/main.975e61ef.chunk.css",
+    "main.js": "/homeworks-props-films/static/js/main.683be7bf.chunk.js",
+    "main.js.map": "/homeworks-props-films/static/js/main.683be7bf.chunk.js.map",
+    "runtime-main.js": "/homeworks-props-films/static/js/runtime-main.670aa650.js",
+    "runtime-main.js.map": "/homeworks-props-films/static/js/runtime-main.670aa650.js.map",
+    "static/js/2.6a0b3f75.chunk.js": "/homeworks-props-films/static/js/2.6a0b3f75.chunk.js",
+    "static/js/2.6a0b3f75.chunk.js.map": "/homeworks-props-films/static/js/2.6a0b3f75.chunk.js.map",
+    "static/js/3.0c769368.chunk.js": "/homeworks-props-films/static/js/3.0c769368.chunk.js",
+    "static/js/3.0c769368.chunk.js.map": "/homeworks-props-films/static/js/3.0c769368.chunk.js.map",
+    "index.html": "/homeworks-props-films/index.html",
+    "static/css/main.975e61ef.chunk.css.map": "/homeworks-props-films/static/css/main.975e61ef.chunk.css.map",
+    "static/js/2.6a0b3f75.chunk.js.LICENSE.txt": "/homeworks-props-films/static/js/2.6a0b3f75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.670aa650.js",
+    "static/js/2.6a0b3f75.chunk.js",
+    "static/css/main.975e61ef.chunk.css",
+    "static/js/main.683be7bf.chunk.js"
+  ]
+}
